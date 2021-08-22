@@ -26,6 +26,13 @@ h1, h2, h3, h4 {
   font-family: 'Arvo', serif;
 }
 
+h5 {
+  font-size: 20px;
+  color: #222222;
+  font-weight: 700;
+  font-family: 'Arvo', serif;
+}
+
 a {
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
